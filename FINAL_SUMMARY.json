@@ -1,0 +1,41 @@
+{
+  "type": "study_solutions",
+  "title": "Python Backend Interview Preparation - 3 Day Plan",
+  "repo_url": "https://github.com/abhinavpadige4/python-backend-interview-prep-3-days",
+  "problems_solved": 15,
+  "files_created": [
+    {"name": "README.md", "description": "Main repository overview and instructions"},
+    {"name": "SUMMARY.md", "description": "Complete summary of all materials created"},
+    {"name": "mock_interview_questions.md", "description": "Comprehensive technical and behavioral interview questions"},
+    {"name": "day1-core-python/README.md", "description": "Day 1 study guide: Core Python & Data Structures"},
+    {"name": "day1-core-python/solutions/0001_two_sum.py", "description": "Two Sum problem solution with hash map approach"},
+    {"name": "day1-core-python/solutions/0002_add_two_numbers.py", "description": "Add Two Numbers problem solution with linked list addition"},
+    {"name": "day1-core-python/solutions/0003_longest_substring.py", "description": "Longest Substring Without Repeating Characters solution with sliding window"},
+    {"name": "day1-core-python/solutions/0004_valid_anagram.py", "description": "Valid Anagram problem solution with character counting"},
+    {"name": "day1-core-python/solutions/0005_merge_intervals.py", "description": "Merge Intervals problem solution with sorting and merging"},
+    {"name": "day2-backend-fundamentals/README.md", "description": "Day 2 study guide: Backend Fundamentals"},
+    {"name": "day2-backend-fundamentals/solutions/0001_sql_queries.py", "description": "SQL queries practice covering SELECT, JOINs, aggregations, subqueries"},
+    {"name": "day2-backend-fundamentals/solutions/0002_orm_basics.py", "description": "ORM basics with SQLAlchemy and Django ORM examples"},
+    {"name": "day2-backend-fundamentals/solutions/0003_rest_api_design.py", "description": "REST API design principles, HTTP methods, status codes, and best practices"},
+    {"name": "day2-backend-fundamentals/solutions/0004_database_normalization.py", "description": "Database normalization concepts (1NF, 2NF, 3NF, BCNF) with examples"},
+    {"name": "day2-backend-fundamentals/solutions/0005_pagination.py", "description": "API pagination, filtering, and sorting implementation strategies"},
+    {"name": "day3-advanced-topics/README.md", "description": "Day 3 study guide: Advanced Topics & Mock Interview"},
+    {"name": "day3-advanced-topics/solutions/0001_threading.py", "description": "Threading and concurrency solutions with thread safety, locks, and thread pools"},
+    {"name": "day3-advanced-topics/solutions/0002_asyncio.py", "description": "AsyncIO programming solutions with coroutines, tasks, and aiohttp examples"},
+    {"name": "day3-advanced-topics/solutions/0003_testing.py", "description": "Testing fundamentals with unittest, pytest, mocking, and TDD examples"},
+    {"name": "day3-advanced-topics/solutions/0004_design_patterns.py", "description": "Design patterns solutions covering creational, structural, and behavioral patterns"},
+    {"name": "day3-advanced-topics/solutions/0005_system_design_basics.py", "description": "System design basics covering scalability, availability, consistency, caching, and architecture"}
+  ],
+  "concepts_covered": [
+    "Python fundamentals",
+    "Data structures and algorithms",
+    "SQL and database design",
+    "ORM concepts (SQLAlchemy/Django)",
+    "REST API design",
+    "Concurrency and parallelism",
+    "Testing methodologies",
+    "Design patterns",
+    "System design",
+    "Interview preparation"
+  ]
+}
